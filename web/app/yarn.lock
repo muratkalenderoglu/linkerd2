@@ -7461,10 +7461,10 @@ loader-utils@^2.0.0:
     emojis-list "^3.0.0"
     json5 "^2.1.2"
 
-locales-detector@2.26.0:
-  version "2.26.0"
-  resolved "https://registry.yarnpkg.com/locales-detector/-/locales-detector-2.26.0.tgz#4c034f3b6cb3f84ee916f6f1fdd99e45ca23c1b5"
-  integrity sha512-B+/+abgTUh9QG8hTQRS2+QGaKFC3YUOkEXvwx4LwvN1Q7T9IdBMBRtksdaGpI+cOYEKWNaQvGHh7kxD+l97c1Q==
+locales-detector@2.27.16:
+  version "2.27.16"
+  resolved "https://registry.yarnpkg.com/locales-detector/-/locales-detector-2.27.16.tgz#28b67f49f0e67467d84b269e82f55d6942cf635b"
+  integrity sha512-eU9/iM42tjMfC5rOPlc5LGD2ontHFAgnL/FLgUPPYftGN+WsEFo/ItV9IRehrnZKp1QpBl+o4uZhskLx2agMQw==
   dependencies:
     "@babel/runtime" "^7.6.3"
     query-string "^6.8.3"
